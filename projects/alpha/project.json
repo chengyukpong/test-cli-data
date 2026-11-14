@@ -5,7 +5,9 @@
     "description": "The first product surface.",
     "status": "active",
     "ownerId": "chengyukpong",
-    "members": [],
+    "members": [
+      "ivan"
+    ],
     "color": "#1867C0",
     "labels": [
       "ui"
@@ -14,6 +16,6 @@
     "endDate": "2026-12-19",
     "nextTaskNumber": 1,
     "createdAt": "2026-11-15T00:06:16.403+08:00",
-    "updatedAt": "2026-11-15T00:06:16.412+08:00"
+    "updatedAt": "2026-11-15T00:52:16.507+08:00"
   }
 }
