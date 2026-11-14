@@ -1,0 +1,19 @@
+{
+  "beta": {
+    "id": "beta",
+    "name": "Beta Two",
+    "description": "The second one, planned behind it.",
+    "status": "active",
+    "ownerId": "chengyukpong",
+    "members": [],
+    "color": "#7E57C2",
+    "labels": [
+      "backend"
+    ],
+    "startDate": "2026-11-09",
+    "endDate": "2026-12-31",
+    "nextTaskNumber": 1,
+    "createdAt": "2026-11-15T00:06:16.405+08:00",
+    "updatedAt": "2026-11-15T00:06:16.424+08:00"
+  }
+}

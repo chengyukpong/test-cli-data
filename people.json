@@ -6,5 +6,37 @@
     "role": "manager",
     "active": true,
     "avatarUrl": null
+  },
+  "ivan": {
+    "id": "ivan",
+    "displayName": "Ivan Tan",
+    "githubHandle": "ivan",
+    "role": "member",
+    "active": true,
+    "avatarUrl": null
+  },
+  "gary": {
+    "id": "gary",
+    "displayName": "Gary Lee",
+    "githubHandle": "gary",
+    "role": "member",
+    "active": true,
+    "avatarUrl": null
+  },
+  "elias": {
+    "id": "elias",
+    "displayName": "Elias Wong",
+    "githubHandle": "elias",
+    "role": "member",
+    "active": true,
+    "avatarUrl": null
+  },
+  "yukfile": {
+    "id": "yukfile",
+    "displayName": "Yuk File",
+    "githubHandle": "yukfile",
+    "role": "member",
+    "active": true,
+    "avatarUrl": null
   }
 }
