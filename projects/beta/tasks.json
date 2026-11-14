@@ -114,7 +114,14 @@
     "estimateDays": 2,
     "labels": [],
     "blockedBy": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "cm-cg1j",
+        "authorId": "chengyukpong",
+        "body": "not bad",
+        "createdAt": "2026-11-15T02:41:10.409+08:00"
+      }
+    ],
     "steps": [],
     "activities": [
       {
@@ -165,11 +172,10 @@
         "steps": []
       }
     ],
-    "rev": 2,
+    "rev": 3,
     "createdAt": "2026-11-15T00:06:16.420+08:00",
-    "updatedAt": "2026-11-15T00:06:16.420+08:00",
-    "updatedBy": "chengyukpong",
-    "archivedAt": null
+    "updatedAt": "2026-11-15T02:41:10.409+08:00",
+    "updatedBy": "chengyukpong"
   },
   "beta-ghv5": {
     "id": "beta-ghv5",
