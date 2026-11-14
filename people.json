@@ -30,5 +30,13 @@
     "role": "member",
     "active": true,
     "avatarUrl": null
+  },
+  "yukfile": {
+    "id": "yukfile",
+    "displayName": "Yuk File",
+    "githubHandle": "yukfile",
+    "role": "member",
+    "active": true,
+    "avatarUrl": null
   }
 }
