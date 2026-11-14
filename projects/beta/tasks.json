@@ -104,7 +104,7 @@
     "priority": "high",
     "assigneeId": "yukfile",
     "createdById": "chengyukpong",
-    "percentComplete": 0,
+    "percentComplete": 70,
     "blocked": false,
     "blockedReason": "",
     "tracked": false,
@@ -135,7 +135,7 @@
       {
         "day": "2026-11-15",
         "at": "2026-11-15T00:06:16.420+08:00",
-        "edits": 3,
+        "edits": 4,
         "editors": [
           "chengyukpong"
         ],
@@ -175,6 +175,12 @@
             "from": "backlog",
             "to": "todo",
             "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "70%",
+            "by": "chengyukpong"
           }
         ],
         "steps": [
@@ -191,9 +197,9 @@
         ]
       }
     ],
-    "rev": 4,
+    "rev": 5,
     "createdAt": "2026-11-15T00:06:16.420+08:00",
-    "updatedAt": "2026-11-15T02:43:00.622+08:00",
+    "updatedAt": "2026-11-15T02:44:53.751+08:00",
     "updatedBy": "chengyukpong"
   },
   "beta-ghv5": {
