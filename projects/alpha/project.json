@@ -2,7 +2,7 @@
   "alpha": {
     "id": "alpha",
     "name": "Alpha One",
-    "description": "The first product surface.",
+    "description": "The first product surface: everything the operator sees before signing in, including the header budgets, the tenant switcher and the old import the team has been meaning to retire for two quarters.",
     "status": "active",
     "ownerId": "chengyukpong",
     "members": [
@@ -17,6 +17,6 @@
     "startDate": "2026-11-02",
     "endDate": "2026-12-19",
     "createdAt": "2026-11-15T00:06:16.403+08:00",
-    "updatedAt": "2026-11-15T00:57:16.197+08:00"
+    "updatedAt": "2026-11-15T00:59:33.250+08:00"
   }
 }
