@@ -1,0 +1,23 @@
+{
+  "beta": {
+    "id": "beta",
+    "name": "Beta Two",
+    "description": "The second one, planned behind it.",
+    "status": "active",
+    "ownerId": "chengyukpong",
+    "members": [
+      "yukfile",
+      "gary",
+      "ivan",
+      "elias"
+    ],
+    "color": "#7E57C2",
+    "labels": [
+      "backend"
+    ],
+    "startDate": "2026-11-09",
+    "endDate": "2026-12-31",
+    "createdAt": "2026-11-15T03:12:37.151+08:00",
+    "updatedAt": "2026-11-15T03:12:37.174+08:00"
+  }
+}

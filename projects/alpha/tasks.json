@@ -1,0 +1,856 @@
+{
+  "alpha-je71": {
+    "id": "alpha-je71",
+    "taskId": "alpha-je71",
+    "projectId": "alpha",
+    "firstPromotedAt": null,
+    "title": "Audit the colour tokens",
+    "description": "",
+    "definitionOfDone": "",
+    "status": "backlog",
+    "priority": "urgent",
+    "assigneeId": null,
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": null,
+    "endDate": null,
+    "estimateDays": null,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [
+      {
+        "id": "cm-03dg",
+        "authorId": "chengyukpong",
+        "body": "Waiting on the design tokens handoff.",
+        "createdAt": "2026-11-15T03:12:37.157+08:00"
+      }
+    ],
+    "steps": [],
+    "activities": [],
+    "rev": 1,
+    "createdAt": "2026-11-15T03:12:37.153+08:00",
+    "updatedAt": "2026-11-15T03:12:37.157+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-rxhs": {
+    "id": "alpha-rxhs",
+    "taskId": "alpha-rxhs",
+    "projectId": "alpha",
+    "firstPromotedAt": null,
+    "title": "Write down the release checklist",
+    "description": "",
+    "definitionOfDone": "",
+    "status": "backlog",
+    "priority": "medium",
+    "assigneeId": "gary",
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": null,
+    "endDate": null,
+    "estimateDays": null,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.156+08:00",
+        "edits": 1,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "gary",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 1,
+    "createdAt": "2026-11-15T03:12:37.155+08:00",
+    "updatedAt": "2026-11-15T03:12:37.156+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-zro3": {
+    "id": "alpha-zro3",
+    "taskId": "alpha-zro3",
+    "projectId": "alpha",
+    "firstPromotedAt": null,
+    "title": "Collect the support themes for October",
+    "description": "",
+    "definitionOfDone": "",
+    "status": "backlog",
+    "priority": "low",
+    "assigneeId": null,
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": null,
+    "endDate": null,
+    "estimateDays": null,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [
+      {
+        "id": "cm-2u9c",
+        "authorId": "chengyukpong",
+        "body": "Do we count repeat contacts? Decided on Thursday.",
+        "createdAt": "2026-11-15T03:12:37.158+08:00"
+      }
+    ],
+    "steps": [],
+    "activities": [],
+    "rev": 1,
+    "createdAt": "2026-11-15T03:12:37.155+08:00",
+    "updatedAt": "2026-11-15T03:12:37.158+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-w52f": {
+    "id": "alpha-w52f",
+    "taskId": "alpha-w52f",
+    "projectId": "alpha",
+    "firstPromotedAt": "2026-11-15T03:12:37.159+08:00",
+    "title": "Check the header budgets",
+    "description": "",
+    "definitionOfDone": "Every header page weighs under 40 KB.",
+    "status": "todo",
+    "priority": "high",
+    "assigneeId": "ivan",
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-07",
+    "estimateDays": 3,
+    "labels": [
+      "ui"
+    ],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.158+08:00",
+        "edits": 3,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "ivan",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-03",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-07",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "Every header page weighs under 40 KB. (37 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "3",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "todo",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "labels",
+            "from": null,
+            "to": "ui",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 3,
+    "createdAt": "2026-11-15T03:12:37.158+08:00",
+    "updatedAt": "2026-11-15T03:12:37.159+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-kgch": {
+    "id": "alpha-kgch",
+    "taskId": "alpha-kgch",
+    "projectId": "alpha",
+    "firstPromotedAt": "2026-11-15T03:12:37.160+08:00",
+    "title": "Replace the flaky date helper",
+    "description": "",
+    "definitionOfDone": "The helper has tests, and none of them is flaky.",
+    "status": "todo",
+    "priority": "medium",
+    "assigneeId": "elias",
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-06",
+    "estimateDays": 2,
+    "labels": [
+      "tooling"
+    ],
+    "blockedBy": [],
+    "comments": [
+      {
+        "id": "cm-qzr8",
+        "authorId": "chengyukpong",
+        "body": "The third flake was the test, not the helper.",
+        "createdAt": "2026-11-15T03:12:37.161+08:00"
+      }
+    ],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.160+08:00",
+        "edits": 5,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "elias",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-04",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-06",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "The helper has tests, and none of them is flaky. (48 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "2",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "todo",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "labels",
+            "from": null,
+            "to": "tooling",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 6,
+    "createdAt": "2026-11-15T03:12:37.159+08:00",
+    "updatedAt": "2026-11-15T03:12:37.161+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-cidv": {
+    "id": "alpha-cidv",
+    "taskId": "alpha-cidv",
+    "projectId": "alpha",
+    "firstPromotedAt": "2026-11-15T03:12:37.161+08:00",
+    "title": "Speed up the board's first paint",
+    "description": "",
+    "definitionOfDone": "A cold board paints in under a second.",
+    "status": "in_progress",
+    "priority": "high",
+    "assigneeId": "gary",
+    "createdById": "chengyukpong",
+    "percentComplete": 40,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": true,
+    "isSmall": false,
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-13",
+    "estimateDays": 5,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [
+      {
+        "id": "st-43vs",
+        "name": "Measure the cold paint",
+        "detail": "",
+        "done": false,
+        "doneAt": null
+      },
+      {
+        "id": "st-ll2f",
+        "name": "Find the blocking fetch",
+        "detail": "",
+        "done": false,
+        "doneAt": null
+      },
+      {
+        "id": "st-brxo",
+        "name": "Fix it and re-measure",
+        "detail": "",
+        "done": false,
+        "doneAt": null
+      }
+    ],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.161+08:00",
+        "edits": 7,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "gary",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-02",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-13",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "tracked",
+            "from": "untracked",
+            "to": "tracked",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "A cold board paints in under a second. (38 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "5",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "in_progress",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "40%",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": [
+          {
+            "step": "st-43vs",
+            "name": "Measure the cold paint",
+            "added": true,
+            "removed": false,
+            "state": "unchanged",
+            "by": [
+              "chengyukpong"
+            ]
+          },
+          {
+            "step": "st-ll2f",
+            "name": "Find the blocking fetch",
+            "added": true,
+            "removed": false,
+            "state": "unchanged",
+            "by": [
+              "chengyukpong"
+            ]
+          },
+          {
+            "step": "st-brxo",
+            "name": "Fix it and re-measure",
+            "added": true,
+            "removed": false,
+            "state": "unchanged",
+            "by": [
+              "chengyukpong"
+            ]
+          }
+        ]
+      }
+    ],
+    "rev": 7,
+    "createdAt": "2026-11-15T03:12:37.161+08:00",
+    "updatedAt": "2026-11-15T03:12:37.163+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-nz20": {
+    "id": "alpha-nz20",
+    "taskId": "alpha-nz20",
+    "projectId": "alpha",
+    "firstPromotedAt": "2026-11-15T03:12:37.164+08:00",
+    "title": "Measure the header at 1440",
+    "description": "",
+    "definitionOfDone": "Both columns line up at 1440 and at 1024.",
+    "status": "in_progress",
+    "priority": "medium",
+    "assigneeId": "ivan",
+    "createdById": "chengyukpong",
+    "percentComplete": 25,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": true,
+    "isSmall": false,
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-20",
+    "estimateDays": 8,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [
+      {
+        "id": "st-bcsv",
+        "name": "Measure the header at 1440",
+        "detail": "",
+        "done": false,
+        "doneAt": null
+      },
+      {
+        "id": "st-uxcj",
+        "name": "Sketch the fix",
+        "detail": "",
+        "done": false,
+        "doneAt": null
+      },
+      {
+        "id": "st-o9s5",
+        "name": "Apply it and re-measure",
+        "detail": "",
+        "done": false,
+        "doneAt": null
+      }
+    ],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.164+08:00",
+        "edits": 7,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "ivan",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-05",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-20",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "Both columns line up at 1440 and at 1024. (41 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "8",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "in_progress",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "25%",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "tracked",
+            "from": "untracked",
+            "to": "tracked",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": [
+          {
+            "step": "st-bcsv",
+            "name": "Measure the header at 1440",
+            "added": true,
+            "removed": false,
+            "state": "unchanged",
+            "by": [
+              "chengyukpong"
+            ]
+          },
+          {
+            "step": "st-uxcj",
+            "name": "Sketch the fix",
+            "added": true,
+            "removed": false,
+            "state": "unchanged",
+            "by": [
+              "chengyukpong"
+            ]
+          },
+          {
+            "step": "st-o9s5",
+            "name": "Apply it and re-measure",
+            "added": true,
+            "removed": false,
+            "state": "unchanged",
+            "by": [
+              "chengyukpong"
+            ]
+          }
+        ]
+      }
+    ],
+    "rev": 7,
+    "createdAt": "2026-11-15T03:12:37.164+08:00",
+    "updatedAt": "2026-11-15T03:12:37.165+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-8d1u": {
+    "id": "alpha-8d1u",
+    "taskId": "alpha-8d1u",
+    "projectId": "alpha",
+    "firstPromotedAt": "2026-11-15T03:12:37.166+08:00",
+    "title": "Make the filter chips readable",
+    "description": "",
+    "definitionOfDone": "A chip says what it filters, in words.",
+    "status": "in_progress",
+    "priority": "low",
+    "assigneeId": "elias",
+    "createdById": "chengyukpong",
+    "percentComplete": 60,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-16",
+    "estimateDays": 3,
+    "labels": [
+      "ui"
+    ],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.166+08:00",
+        "edits": 5,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "elias",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-09",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-16",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "A chip says what it filters, in words. (38 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "3",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "in_progress",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "60%",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "labels",
+            "from": null,
+            "to": "ui",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 5,
+    "createdAt": "2026-11-15T03:12:37.165+08:00",
+    "updatedAt": "2026-11-15T03:12:37.166+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-7fjo": {
+    "id": "alpha-7fjo",
+    "taskId": "alpha-7fjo",
+    "projectId": "alpha",
+    "firstPromotedAt": "2026-11-15T03:12:37.167+08:00",
+    "title": "Retire the legacy import",
+    "description": "",
+    "definitionOfDone": "Nothing imports the legacy module, and it is gone.",
+    "status": "done",
+    "priority": "high",
+    "assigneeId": "chengyukpong",
+    "createdById": "chengyukpong",
+    "percentComplete": 100,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-06",
+    "estimateDays": 2,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.167+08:00",
+        "edits": 5,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "chengyukpong",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-02",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-06",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "Nothing imports the legacy module, and it is gon… (50 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "2",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "done",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "100%",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 5,
+    "createdAt": "2026-11-15T03:12:37.166+08:00",
+    "updatedAt": "2026-11-15T03:12:37.167+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "alpha-heg5": {
+    "id": "alpha-heg5",
+    "taskId": "alpha-heg5",
+    "projectId": "alpha",
+    "firstPromotedAt": "2026-11-15T03:12:37.168+08:00",
+    "title": "Fix the typo in the empty state",
+    "description": "",
+    "definitionOfDone": "The empty state reads correctly.",
+    "status": "done",
+    "priority": "low",
+    "assigneeId": "gary",
+    "createdById": "chengyukpong",
+    "percentComplete": 100,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-05",
+    "estimateDays": 1,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [
+      {
+        "id": "cm-lx4w",
+        "authorId": "chengyukpong",
+        "body": "Shipped in the 2.4.1 hotfix.",
+        "createdAt": "2026-11-15T03:12:37.169+08:00"
+      }
+    ],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.168+08:00",
+        "edits": 5,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "gary",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-03",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-05",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "The empty state reads correctly. (32 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "1",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "done",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "100%",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 6,
+    "createdAt": "2026-11-15T03:12:37.168+08:00",
+    "updatedAt": "2026-11-15T03:12:37.169+08:00",
+    "updatedBy": "chengyukpong"
+  }
+}

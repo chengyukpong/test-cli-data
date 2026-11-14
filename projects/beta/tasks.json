@@ -1,0 +1,696 @@
+{
+  "beta-8z32": {
+    "id": "beta-8z32",
+    "taskId": "beta-8z32",
+    "projectId": "beta",
+    "firstPromotedAt": null,
+    "title": "Price the storage options",
+    "description": "",
+    "definitionOfDone": "",
+    "status": "backlog",
+    "priority": "urgent",
+    "assigneeId": null,
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": null,
+    "endDate": null,
+    "estimateDays": null,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [],
+    "rev": 0,
+    "createdAt": "2026-11-15T03:12:37.169+08:00",
+    "updatedAt": "2026-11-15T03:12:37.169+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-j40f": {
+    "id": "beta-j40f",
+    "taskId": "beta-j40f",
+    "projectId": "beta",
+    "firstPromotedAt": null,
+    "title": "Interview three operators",
+    "description": "",
+    "definitionOfDone": "",
+    "status": "backlog",
+    "priority": "medium",
+    "assigneeId": null,
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": null,
+    "endDate": null,
+    "estimateDays": null,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [],
+    "rev": 0,
+    "createdAt": "2026-11-15T03:12:37.169+08:00",
+    "updatedAt": "2026-11-15T03:12:37.169+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-u98d": {
+    "id": "beta-u98d",
+    "taskId": "beta-u98d",
+    "projectId": "beta",
+    "firstPromotedAt": null,
+    "title": "Sketch the onboarding flow",
+    "description": "",
+    "definitionOfDone": "",
+    "status": "backlog",
+    "priority": "low",
+    "assigneeId": null,
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": null,
+    "endDate": null,
+    "estimateDays": null,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [],
+    "rev": 0,
+    "createdAt": "2026-11-15T03:12:37.169+08:00",
+    "updatedAt": "2026-11-15T03:12:37.169+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-6mfx": {
+    "id": "beta-6mfx",
+    "taskId": "beta-6mfx",
+    "projectId": "beta",
+    "firstPromotedAt": "2026-11-15T03:12:37.170+08:00",
+    "title": "Wire the audit log",
+    "description": "",
+    "definitionOfDone": "Every write appears in the log once.",
+    "status": "todo",
+    "priority": "high",
+    "assigneeId": "yukfile",
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-12",
+    "estimateDays": 2,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.170+08:00",
+        "edits": 2,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "yukfile",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-09",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-12",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "Every write appears in the log once. (36 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "2",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "todo",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 2,
+    "createdAt": "2026-11-15T03:12:37.169+08:00",
+    "updatedAt": "2026-11-15T03:12:37.170+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-mdjw": {
+    "id": "beta-mdjw",
+    "taskId": "beta-mdjw",
+    "projectId": "beta",
+    "firstPromotedAt": "2026-11-15T03:12:37.170+08:00",
+    "title": "Decide the retention window",
+    "description": "",
+    "definitionOfDone": "One number, written down, with its reason.",
+    "status": "todo",
+    "priority": "medium",
+    "assigneeId": "chengyukpong",
+    "createdById": "chengyukpong",
+    "percentComplete": 0,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-17",
+    "estimateDays": 4,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.170+08:00",
+        "edits": 2,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "chengyukpong",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-10",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-17",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "One number, written down, with its reason. (42 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "4",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "todo",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 2,
+    "createdAt": "2026-11-15T03:12:37.170+08:00",
+    "updatedAt": "2026-11-15T03:12:37.170+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-h6w4": {
+    "id": "beta-h6w4",
+    "taskId": "beta-h6w4",
+    "projectId": "beta",
+    "firstPromotedAt": "2026-11-15T03:12:37.171+08:00",
+    "title": "Migrate the tenant table",
+    "description": "",
+    "definitionOfDone": "Every tenant has a row, and the old table is empty.",
+    "status": "in_progress",
+    "priority": "urgent",
+    "assigneeId": "ivan",
+    "createdById": "chengyukpong",
+    "percentComplete": 50,
+    "blocked": true,
+    "blockedReason": "Waiting on the schema review.",
+    "tracked": true,
+    "isSmall": false,
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-24",
+    "estimateDays": 6,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [
+      {
+        "id": "cm-j6t4",
+        "authorId": "chengyukpong",
+        "body": "Blocked on the review. The migration itself is written.",
+        "createdAt": "2026-11-15T03:12:37.171+08:00"
+      }
+    ],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.171+08:00",
+        "edits": 5,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "ivan",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-09",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-24",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "tracked",
+            "from": "untracked",
+            "to": "tracked",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "Every tenant has a row, and the old table is emp… (51 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "6",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "in_progress",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "50%",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "blocked",
+            "from": "unblocked",
+            "to": "blocked",
+            "note": "Waiting on the schema review.",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 6,
+    "createdAt": "2026-11-15T03:12:37.170+08:00",
+    "updatedAt": "2026-11-15T03:12:37.171+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-8yms": {
+    "id": "beta-8yms",
+    "taskId": "beta-8yms",
+    "projectId": "beta",
+    "firstPromotedAt": "2026-11-15T03:12:37.172+08:00",
+    "title": "Retry the export job on failure",
+    "description": "",
+    "definitionOfDone": "A failed export retries three times and then says so.",
+    "status": "in_progress",
+    "priority": "medium",
+    "assigneeId": "gary",
+    "createdById": "chengyukpong",
+    "percentComplete": 30,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-18",
+    "estimateDays": 3,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.172+08:00",
+        "edits": 4,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "gary",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-11",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-18",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "A failed export retries three times and then say… (53 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "3",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "in_progress",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "30%",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 4,
+    "createdAt": "2026-11-15T03:12:37.172+08:00",
+    "updatedAt": "2026-11-15T03:12:37.172+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-tj19": {
+    "id": "beta-tj19",
+    "taskId": "beta-tj19",
+    "projectId": "beta",
+    "firstPromotedAt": "2026-11-15T03:12:37.173+08:00",
+    "title": "Add the tenant switcher",
+    "description": "",
+    "definitionOfDone": "Switching tenants keeps the current page.",
+    "status": "in_progress",
+    "priority": "high",
+    "assigneeId": "elias",
+    "createdById": "chengyukpong",
+    "percentComplete": 75,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-27",
+    "estimateDays": 5,
+    "labels": [
+      "backend"
+    ],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.173+08:00",
+        "edits": 7,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "elias",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-09",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-27",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "Switching tenants keeps the current page. (41 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "5",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "in_progress",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "75%",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "labels",
+            "from": null,
+            "to": "backend",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 7,
+    "createdAt": "2026-11-15T03:12:37.172+08:00",
+    "updatedAt": "2026-11-15T03:12:37.174+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-9jp4": {
+    "id": "beta-9jp4",
+    "taskId": "beta-9jp4",
+    "projectId": "beta",
+    "firstPromotedAt": "2026-11-15T03:12:37.174+08:00",
+    "title": "Name the export format",
+    "description": "",
+    "definitionOfDone": "One format, documented, exported by the job.",
+    "status": "done",
+    "priority": "medium",
+    "assigneeId": "chengyukpong",
+    "createdById": "chengyukpong",
+    "percentComplete": 100,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-13",
+    "estimateDays": 3,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.174+08:00",
+        "edits": 5,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "chengyukpong",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-09",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-13",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "One format, documented, exported by the job. (44 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "3",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "done",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "100%",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 5,
+    "createdAt": "2026-11-15T03:12:37.174+08:00",
+    "updatedAt": "2026-11-15T03:12:37.175+08:00",
+    "updatedBy": "chengyukpong"
+  },
+  "beta-sr0l": {
+    "id": "beta-sr0l",
+    "taskId": "beta-sr0l",
+    "projectId": "beta",
+    "firstPromotedAt": "2026-11-15T03:12:37.175+08:00",
+    "title": "Delete the dead feature flag",
+    "description": "",
+    "definitionOfDone": "The flag is gone from the code and the config.",
+    "status": "done",
+    "priority": "low",
+    "assigneeId": "yukfile",
+    "createdById": "chengyukpong",
+    "percentComplete": 100,
+    "blocked": false,
+    "blockedReason": "",
+    "tracked": false,
+    "isSmall": false,
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-14",
+    "estimateDays": 2,
+    "labels": [],
+    "blockedBy": [],
+    "comments": [],
+    "steps": [],
+    "activities": [
+      {
+        "day": "2026-11-15",
+        "at": "2026-11-15T03:12:37.175+08:00",
+        "edits": 5,
+        "editors": [
+          "chengyukpong"
+        ],
+        "changes": [
+          {
+            "field": "assignee",
+            "from": null,
+            "to": "yukfile",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "startDate",
+            "from": null,
+            "to": "2026-11-10",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "endDate",
+            "from": null,
+            "to": "2026-11-14",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "definitionOfDone",
+            "from": null,
+            "to": "The flag is gone from the code and the config. (46 chars)",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "estimateDays",
+            "from": null,
+            "to": "2",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "status",
+            "from": "backlog",
+            "to": "done",
+            "by": "chengyukpong"
+          },
+          {
+            "field": "percentComplete",
+            "from": "0%",
+            "to": "100%",
+            "by": "chengyukpong"
+          }
+        ],
+        "steps": []
+      }
+    ],
+    "rev": 5,
+    "createdAt": "2026-11-15T03:12:37.175+08:00",
+    "updatedAt": "2026-11-15T03:12:37.175+08:00",
+    "updatedBy": "chengyukpong"
+  }
+}
