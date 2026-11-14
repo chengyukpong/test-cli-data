@@ -389,7 +389,14 @@
     "estimateDays": 8,
     "labels": [],
     "blockedBy": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "cm-znc2",
+        "authorId": "chengyukpong",
+        "body": "Waiting on the schema review; nothing else blocks it.",
+        "createdAt": "2026-11-15T02:35:30.196+08:00"
+      }
+    ],
     "steps": [
       {
         "id": "st-t2fk",
@@ -505,11 +512,10 @@
         ]
       }
     ],
-    "rev": 7,
+    "rev": 8,
     "createdAt": "2026-11-15T00:06:16.414+08:00",
-    "updatedAt": "2026-11-15T00:06:16.416+08:00",
-    "updatedBy": "chengyukpong",
-    "archivedAt": null
+    "updatedAt": "2026-11-15T02:35:30.196+08:00",
+    "updatedBy": "chengyukpong"
   },
   "alpha-miu2": {
     "id": "alpha-miu2",
