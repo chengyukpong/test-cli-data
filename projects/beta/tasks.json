@@ -122,12 +122,20 @@
         "createdAt": "2026-11-15T02:41:10.409+08:00"
       }
     ],
-    "steps": [],
+    "steps": [
+      {
+        "id": "st-f0eg",
+        "name": "step1",
+        "detail": "",
+        "done": false,
+        "doneAt": null
+      }
+    ],
     "activities": [
       {
         "day": "2026-11-15",
         "at": "2026-11-15T00:06:16.420+08:00",
-        "edits": 2,
+        "edits": 3,
         "editors": [
           "chengyukpong"
         ],
@@ -169,12 +177,23 @@
             "by": "chengyukpong"
           }
         ],
-        "steps": []
+        "steps": [
+          {
+            "step": "st-f0eg",
+            "name": "step1",
+            "added": true,
+            "removed": false,
+            "state": "unchanged",
+            "by": [
+              "chengyukpong"
+            ]
+          }
+        ]
       }
     ],
-    "rev": 3,
+    "rev": 4,
     "createdAt": "2026-11-15T00:06:16.420+08:00",
-    "updatedAt": "2026-11-15T02:41:10.409+08:00",
+    "updatedAt": "2026-11-15T02:43:00.622+08:00",
     "updatedBy": "chengyukpong"
   },
   "beta-ghv5": {
