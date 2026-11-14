@@ -22,5 +22,13 @@
     "role": "member",
     "active": true,
     "avatarUrl": null
+  },
+  "elias": {
+    "id": "elias",
+    "displayName": "Elias Wong",
+    "githubHandle": "elias",
+    "role": "member",
+    "active": true,
+    "avatarUrl": null
   }
 }
