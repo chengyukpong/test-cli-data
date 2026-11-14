@@ -1,0 +1,22 @@
+{
+  "alpha": {
+    "id": "alpha",
+    "name": "Alpha One",
+    "description": "The first product surface.",
+    "status": "active",
+    "ownerId": "chengyukpong",
+    "members": [
+      "ivan",
+      "gary",
+      "elias"
+    ],
+    "color": "#1867C0",
+    "labels": [
+      "ui"
+    ],
+    "startDate": "2026-11-02",
+    "endDate": "2026-12-19",
+    "createdAt": "2026-11-15T00:06:16.403+08:00",
+    "updatedAt": "2026-11-15T01:29:42.785+08:00"
+  }
+}
