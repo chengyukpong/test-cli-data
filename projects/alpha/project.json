@@ -1,0 +1,17 @@
+{
+  "alpha": {
+    "id": "alpha",
+    "name": "Alpha One",
+    "description": "",
+    "status": "active",
+    "ownerId": "chengyukpong",
+    "members": [],
+    "color": "#1867C0",
+    "labels": [],
+    "startDate": "2026-11-02",
+    "endDate": "2026-12-19",
+    "nextTaskNumber": 1,
+    "createdAt": "2026-11-14T23:29:23.569+08:00",
+    "updatedAt": "2026-11-14T23:29:23.569+08:00"
+  }
+}
