@@ -1,0 +1,17 @@
+{
+  "beta": {
+    "id": "beta",
+    "name": "Beta Two",
+    "description": "",
+    "status": "active",
+    "ownerId": "chengyukpong",
+    "members": [],
+    "color": "#1867C0",
+    "labels": [],
+    "startDate": "2026-11-09",
+    "endDate": "2026-12-31",
+    "nextTaskNumber": 1,
+    "createdAt": "2026-11-14T23:29:27.825+08:00",
+    "updatedAt": "2026-11-14T23:29:27.825+08:00"
+  }
+}
