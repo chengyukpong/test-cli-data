@@ -325,6 +325,13 @@
     "comments": [],
     "steps": [
       {
+        "id": "st-brxo",
+        "name": "Fix it and re-measure",
+        "detail": "",
+        "done": false,
+        "doneAt": null
+      },
+      {
         "id": "st-43vs",
         "name": "Measure the cold paint",
         "detail": "",
@@ -334,13 +341,6 @@
       {
         "id": "st-ll2f",
         "name": "Find the blocking fetch",
-        "detail": "",
-        "done": false,
-        "doneAt": null
-      },
-      {
-        "id": "st-brxo",
-        "name": "Fix it and re-measure",
         "detail": "",
         "done": false,
         "doneAt": null
@@ -438,9 +438,9 @@
         ]
       }
     ],
-    "rev": 7,
+    "rev": 8,
     "createdAt": "2026-11-15T03:12:37.161+08:00",
-    "updatedAt": "2026-11-15T03:12:37.163+08:00",
+    "updatedAt": "2026-11-15T03:14:11.141+08:00",
     "updatedBy": "chengyukpong"
   },
   "alpha-nz20": {
